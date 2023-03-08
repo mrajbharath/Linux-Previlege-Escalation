@@ -1,5 +1,5 @@
 # Linux-Previlege-Escalation
-Before starting, I would like to point out - I'm no expert. As far as I know, there isn't a "magic" answer, in this huge area. This is simply my finding, typed up, to be shared (my starting point). Below is a mixture of commands to do the same thing, to look at things in a different place or just a different light. I know there more "things" to look for. It's just a basic & rough guide. Not every command will work for each system as Linux varies so much. "It" will not jump off the screen - you've to hunt for that "little thing" as "the devil is in the detail"
+Before starting, I would like to point out - As far as I know, there isn't a "magic" answer, in this huge area. This is simply my finding, typed up, to be shared (my starting point). Below is a mixture of commands to do the same thing, to look at things in a different place or just a different light. I know there more "things" to look for. It's just a basic & rough guide. Not every command will work for each system as Linux varies so much. "It" will not jump off the screen - you've to hunt for that "little thing" as "the devil is in the detail"
 Enumeration is the key.
 (Linux) privilege escalation is all about:
 Collect - Enumeration, more enumeration and some more enumeration.
